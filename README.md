@@ -8,7 +8,7 @@
 
 ***
 
-Let me begin by explaining that all calculation of parameters of data are only estimations of the true parameters of the process [you can read this article if you are confused about this part](url)
+Let me begin by explaining that all calculation of parameters of data are only estimations of the true parameters of the process [you can read this article if you are confused about this part](https://prakhosha.github.io/A-Story-on-Statistics/)
 
 ## Estimation
 
