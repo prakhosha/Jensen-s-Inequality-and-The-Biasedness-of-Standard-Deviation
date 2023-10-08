@@ -67,7 +67,7 @@ in concave transformation.
 
 This rule is called Jensen’s inequality. We can see why this is true by drawing.
 
-[Jensen's Inequality Illustration](jensens_inequality.jpg)
+![Jensen's Inequality Illustration](jensens_inequality.jpg)
 
 Suppose $f(x)$ is a function of random variable and this function is a convex function as drawn as figure above. Also, suppose that all data points $x$ reside between point $a$ and point $b$. From this drawing, we can see that the expectation of $f(x)$, which shown as point $d$ is always greater than the function of expectation of $x$ as shown as point $c$. We can also do the same thing with a concave function.
 
